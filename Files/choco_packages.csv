@@ -1,0 +1,37 @@
+Package|Parameters
+googlechrome|
+firefox|--params "l=en-GB"
+firefox-dev|--pre --params "l=en-GB"
+tor-browser|
+thunderbird|
+
+open-shell|--ia ADDLOCAL=StartMenu
+dropbox|
+
+everything|--params "/start-menu-shortcuts /run-on-system-startup"
+foxitreader|--ia '/MERGETASKS="!desktopicon,!setdefaultreader,!displayinbrowser /COMPONENTS=*pdfviewer,!ffse,!installprint,!ffaddin,*ffspellcheck,!connectedpdf"'
+veracrypt|
+f.lux|
+paint.net|
+
+7zip.install|
+putty.install|
+sysinternals|
+
+vlc|
+qbittorrent|
+
+audacity|
+audacity-lame|
+audacity-ffmpeg|
+
+vscode|--params "/NoDesktopIcon"
+sublimetext3|
+notepadplusplus.install|
+
+git.install|--params "/NoShellIntegration"
+github-desktop|
+
+hwmonitor|
+cpu-z.install|
+gpu-z|

@@ -1,16 +1,16 @@
-Path,Name,Value,Type,Description
-HKCU:\Control Panel\International,sTimeFormat,HH:mm:ss,String,Time format - 24H
-HKCU:\Control Panel\International,sShortTime,HH:mm,String,Time short format - 24H
-HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,ConsentPromptBehaviorAdmin,5,DWord,Set UAC to 'medium'
-HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,PromptOnSecureDesktop,0,DWord,UAC prompts on interactive desktop
-HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced,ShowSecondsInSystemClock,1,DWord,Show seconds in taskbar
-HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced,MMTaskbarMode,2,DWord,Show taskbar buttons on 'where window is open'
-HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced,ShowCortanaButton,0,DWord,Hide Cortana button in taskbar
-HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced,ShowTaskViewButton,0,DWord,Hide Task View button in taskbar
-HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced,AutoCheckSelect,1,DWord,Explorer - Item check boxes
-HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced,HideFileExt,0,DWord,Explorer - File name extensions
-HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced,Hidden,1,DWord,Explorer - Hidden items
-HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Search,SearchboxTaskbarMode,0,DWord,Hide Search Bar in taskbar
-HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize,AppsUseLightTheme,0,DWord,Enable dark theme
-HKCU:\SOFTWARE\Microsoft\Windows\DWM,AccentColor,0xffb16300,DWord,Set Windows accent colour
-HKCU:\SOFTWARE\Microsoft\Windows\DWM,ColorPrevalence,1,DWord,Set colour on 'Title bars and window borders'
+Path|Name|Value|Type|Description
+HKCU:\Control Panel\International|sTimeFormat|HH:mm:ss|String|Time format - 24H
+HKCU:\Control Panel\International|sShortTime|HH:mm|String|Time short format - 24H
+HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System|ConsentPromptBehaviorAdmin|5|DWord|Set UAC to 'medium'
+HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System|PromptOnSecureDesktop|0|DWord|UAC prompts on interactive desktop
+HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced|ShowSecondsInSystemClock|1|DWord|Show seconds in taskbar
+HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced|MMTaskbarMode|2|DWord|Show taskbar buttons on 'where window is open'
+HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced|ShowCortanaButton|0|DWord|Hide Cortana button in taskbar
+HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced|ShowTaskViewButton|0|DWord|Hide Task View button in taskbar
+HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced|AutoCheckSelect|1|DWord|Explorer - Item check boxes
+HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced|HideFileExt|0|DWord|Explorer - File name extensions
+HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced|Hidden|1|DWord|Explorer - Hidden items
+HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Search|SearchboxTaskbarMode|0|DWord|Hide Search Bar in taskbar
+HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize|AppsUseLightTheme|0|DWord|Enable dark theme
+HKCU:\SOFTWARE\Microsoft\Windows\DWM|AccentColor|0xffb16300|DWord|Set Windows accent colour
+HKCU:\SOFTWARE\Microsoft\Windows\DWM|ColorPrevalence|1|DWord|Set colour on 'Title bars and window borders'
