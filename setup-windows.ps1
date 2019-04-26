@@ -36,7 +36,7 @@ if ($RegValsPath -and (Test-Path $RegValsPath)) {
         }    
     }
 
-    # Restart Explorer 💣
+    # Restart Explorer ðŸ’£
     if ($CommitReg) {
         Stop-Process -ProcessName explorer
     }
@@ -45,7 +45,7 @@ else {
     Write-Host "Skipping regedit..."
 }
 
-# Choco Time 🍫
+# Choco Time ðŸ«
 if ($ChocoPackagesPath -and (Test-Path $ChocoPackagesPath)) {
     $chocoInstalled = Get-Command "choco" -errorAction SilentlyContinue
 
@@ -72,12 +72,11 @@ if ($ChocoPackagesPath -and (Test-Path $ChocoPackagesPath)) {
             $packName = $_.Package
             $params = $_.Parameters
             $installArgs = if ($params) { "$packName $params -y" } else { "$packName -y" }
+            $chocoCommand = "choco install $installArgs"
+            Write-Host $chocoCommand
             
             if ($CommitChoco) {
-                choco install $installArgs
-            }
-            else {
-                Write-Host "choco install $installArgs"
+                Invoke-Expression $chocoCommand
             }
         }    
     }
