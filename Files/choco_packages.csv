@@ -5,7 +5,7 @@ firefox-dev|--pre --params "l=en-GB"
 tor-browser|
 thunderbird|
 
-open-shell|--ia ADDLOCAL=StartMenu
+open-shell|--ia "ADDLOCAL=StartMenu"
 dropbox|
 
 everything|--params "/start-menu-shortcuts /run-on-system-startup"
@@ -13,10 +13,17 @@ foxitreader|--ia '/MERGETASKS="!desktopicon,!setdefaultreader,!displayinbrowser 
 veracrypt|
 f.lux|
 paint.net|
+teamviewer|
+
+ccleaner.portable|
+adwcleaner|
 
 7zip.install|
 putty.install|
+winscp.install|
 sysinternals|
+openssl.light|
+rufus|
 
 vlc|
 qbittorrent|
