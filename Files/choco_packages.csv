@@ -35,6 +35,7 @@ audacity-ffmpeg|
 vscode|--params "/NoDesktopIcon"
 sublimetext3|
 notepadplusplus.install|
+firacode|
 
 git.install|--params "/NoShellIntegration"
 github-desktop|
