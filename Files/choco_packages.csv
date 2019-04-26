@@ -5,11 +5,14 @@ firefox-dev|--pre --params "l=en-GB"
 tor-browser|
 thunderbird|
 
+chocolateygui|
+spacesniffer|
+
 open-shell|--ia "ADDLOCAL=StartMenu"
 dropbox|
 
 everything|--params "/start-menu-shortcuts /run-on-system-startup"
-foxitreader|--ia '/MERGETASKS="!desktopicon,!setdefaultreader,!displayinbrowser /COMPONENTS=*pdfviewer,!ffse,!installprint,!ffaddin,*ffspellcheck,!connectedpdf"'
+foxitreader|'/MERGETASKS="!desktopicon,!setdefaultreader,!displayinbrowser /COMPONENTS=pdfviewer"'
 veracrypt|
 f.lux|
 paint.net|
@@ -41,5 +44,5 @@ git.install|--params "/NoShellIntegration"
 github-desktop|
 
 hwmonitor|
-cpu-z.install|
+cpu-z|
 gpu-z|
