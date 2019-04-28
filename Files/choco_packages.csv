@@ -18,12 +18,17 @@ f.lux|
 paint.net|
 teamviewer|
 
+keepass|
+keepass-keepasshttp|
+keepass-rpc|
+keepass-plugin-favicon|
+
 ccleaner.portable|
 adwcleaner|
 
-7zip.install|
-putty.install|
-winscp.install|
+7zip|
+putty|
+winscp|
 sysinternals|
 openssl.light|
 rufus|
@@ -37,10 +42,10 @@ audacity-ffmpeg|
 
 vscode|--params "/NoDesktopIcon"
 sublimetext3|
-notepadplusplus.install|
+notepadplusplus|
 firacode|
 
-git.install|--params "/NoShellIntegration"
+git|--params "/NoShellIntegration"
 github-desktop|
 
 hwmonitor|

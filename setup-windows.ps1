@@ -36,7 +36,7 @@ if ($RegValsPath -and (Test-Path $RegValsPath)) {
         }    
     }
 
-    # Restart Explorer ðŸ’£
+    # Restart Explorer 💣
     if ($CommitReg) {
         Stop-Process -ProcessName explorer
     }
@@ -45,7 +45,7 @@ else {
     Write-Host "Skipping regedit..."
 }
 
-# Choco Time ðŸ«
+# Choco Time 🍫
 if ($ChocoPackagesPath -and (Test-Path $ChocoPackagesPath)) {
     $chocoInstalled = Get-Command "choco" -errorAction SilentlyContinue
 
