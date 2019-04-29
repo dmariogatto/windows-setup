@@ -1,0 +1,1 @@
+PowerShell.exe -ExecutionPolicy Bypass -File ./windows-init.ps1 -RegValsPath .\Files\reg_values.csv -CommitReg -ChocoPackagesPath .\Files\choco_packages.csv -CommitChoco
