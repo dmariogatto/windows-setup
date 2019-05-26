@@ -8,14 +8,17 @@ thunderbird|
 chocolateygui|
 spacesniffer|
 
+wsl|
+
 open-shell|--ia "ADDLOCAL=StartMenu"
 dropbox|
 
 everything|--params "/start-menu-shortcuts /run-on-system-startup"
-foxitreader|'/MERGETASKS="!desktopicon,!setdefaultreader,!displayinbrowser /COMPONENTS=pdfviewer"'
+foxitreader|--ia '/MERGETASKS="!desktopicon,!setdefaultreader,!displayinbrowser /COMPONENTS=pdfviewer"'
 veracrypt|
 f.lux|
 paint.net|
+picpick.portable|
 teamviewer|
 
 keepass|
