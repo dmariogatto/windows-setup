@@ -13,6 +13,7 @@ wsl|
 open-shell|--ia "ADDLOCAL=StartMenu"
 dropbox|
 
+powertoys|
 everything|--params "/start-menu-shortcuts /run-on-system-startup"
 foxitreader|--ia '/MERGETASKS="!desktopicon,!setdefaultreader,!displayinbrowser /COMPONENTS=pdfviewer"'
 veracrypt|
@@ -26,7 +27,6 @@ keepass-keepasshttp|
 keepass-rpc|
 keepass-plugin-favicon|
 
-ccleaner.portable|
 adwcleaner|
 
 7zip|
