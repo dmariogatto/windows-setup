@@ -13,6 +13,10 @@ wsl|
 open-shell|--ia "ADDLOCAL=StartMenu"
 dropbox|
 
+microsoftmathematics|
+microsoftazurestorageexplorer|
+azure-data-studio|
+
 powertoys|
 everything|--params "/start-menu-shortcuts /run-on-system-startup"
 foxitreader|--ia '/MERGETASKS="!desktopicon,!setdefaultreader,!displayinbrowser /COMPONENTS=pdfviewer"'
@@ -35,6 +39,7 @@ winscp|
 sysinternals|
 openssl.light|
 rufus|
+lockhunter|
 
 vlc|
 qbittorrent|
@@ -46,9 +51,11 @@ audacity-ffmpeg|
 vscode|--params "/NoDesktopIcon"
 sublimetext3|
 notepadplusplus|
+meld|
 firacode|
 
 git|--params "/NoShellIntegration"
+gitextensions|
 github-desktop|
 
 hwmonitor|

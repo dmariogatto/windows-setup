@@ -14,3 +14,7 @@ HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Search|SearchboxTaskbarMode|0|DW
 HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize|AppsUseLightTheme|0|DWord|Enable dark theme
 HKCU:\SOFTWARE\Microsoft\Windows\DWM|AccentColor|0xffb16300|DWord|Set Windows accent colour
 HKCU:\SOFTWARE\Microsoft\Windows\DWM|ColorPrevalence|1|DWord|Set colour on 'Title bars and window borders'
+HKCU:\SOFTWARE\Microsoft\Clipboard|EnableClipboardHistory|1|DWord|Enable clipboard history
+HKCU:\SOFTWARE\Control Panel\Mouse|MouseSpeed|0|String|Enhance pointer precision
+HKCU:\SOFTWARE\Control Panel\Mouse|MouseThreshold1|0|String|Enhance pointer precision Threshold1
+HKCU:\SOFTWARE\Control Panel\Mouse|MouseThreshold2|0|String|Enhance pointer precision Threshold2
