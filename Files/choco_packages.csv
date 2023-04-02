@@ -13,25 +13,22 @@ wsl|
 open-shell|--ia "ADDLOCAL=StartMenu"
 dropbox|
 
-microsoftmathematics|
 microsoftazurestorageexplorer|
 azure-data-studio|
 
 powertoys|
 everything|--params "/start-menu-shortcuts /run-on-system-startup"
-foxitreader|--ia '/MERGETASKS="!desktopicon,!setdefaultreader,!displayinbrowser /COMPONENTS=pdfviewer"'
+foxitreader|--ia '/COMPONENTS="pdfviewer,!ffaddin,!ffse" /TASKS="!desktopicon,startmenufolder,!setDefaultReader"'
 veracrypt|
 f.lux|
 paint.net|
-picpick.portable|
-teamviewer|
 
 keepass|
 keepass-keepasshttp|
 keepass-rpc|
 keepass-plugin-favicon|
 
-adwcleaner|
+calibre|
 
 7zip|
 putty|
@@ -40,24 +37,37 @@ sysinternals|
 openssl.light|
 rufus|
 lockhunter|
+reshack|
+pestudio|
+winmtr-redux|
+ilspy|
 
 vlc|
 qbittorrent|
 
-audacity|
-audacity-lame|
-audacity-ffmpeg|
+audacity|--version 2.4.2 --pin
+audacity-lame|-- pin
+audacity-ffmpeg|-- pin
+voicemeeter|
 
 vscode|--params "/NoDesktopIcon"
 sublimetext3|
 notepadplusplus|
-meld|
 firacode|
 
 git|--params "/NoShellIntegration"
 gitextensions|
 github-desktop|
+winmerge|
 
 hwmonitor|
 cpu-z|
 gpu-z|
+crystaldiskinfo|
+msiafterburner|
+
+handbrake|
+youtube-dl|
+
+sd-card-formatter|
+rufus|
