@@ -47,7 +47,7 @@ qbittorrent|
 
 audacity|--version 2.4.2 --pin
 audacity-lame|-- pin
-audacity-ffmpeg|-- pin
+audacity-ffmpeg|--pin
 voicemeeter|
 
 vscode|--params "/NoDesktopIcon"
@@ -64,7 +64,7 @@ hwmonitor|
 cpu-z|
 gpu-z|
 crystaldiskinfo|
-msiafterburner|
+hwinfo|
 
 handbrake|
 youtube-dl|
